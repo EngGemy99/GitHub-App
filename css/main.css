@@ -1,0 +1,12 @@
+main {
+    gap: 5%;
+}
+.left {
+    width: 35%;
+    position: sticky;
+    top: 0;
+}
+
+.right {
+    width: 60%;
+}
